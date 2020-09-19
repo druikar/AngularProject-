@@ -1,0 +1,272 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Anushuka  Sharma's-lenga",
+      "description": "Designed by Sbysachi Mukharjee.It contains choli and rest set in pink color",
+      "imageUrl": "https://img.perniaspopupshop.com/HOMEPAGE_IMAGES/sabyasachi/AnushkaSharma002.jpg",
+      "price": 25000
+    },
+    {
+      "id": 2,
+      "name": "Velvet",
+      "description": "Full Velvet Specially for Punjabi Bride",
+      "imageUrl": "https://i.pinimg.com/originals/fc/47/46/fc4746665a1205100abe0e6f19569646.jpg",
+      "price": 23456
+    },
+    {
+      "id": 3,
+      "name": "Bridal Wear",
+      "description": "In light green shades we made it and having leass white color",
+      "imageUrl": "https://i0.wp.com/frugal2fab.com/wp-content/uploads/2019/02/19.jpg?resize=683%2C1024",
+      "price": 9000
+    },
+    {
+      "id": 4,
+      "name": "Neck Piece",
+      "description": "This we made for bride as jewellary.It contains 2 jhumka and 1 neak set",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81O8cmRfNYL._UL1500_.jpg",
+      "price": 30000
+    },
+    {
+      "id": 5,
+      "name": "Neak set ",
+      "description": "Made with diamond for function",
+      "imageUrl": "https://i.ytimg.com/vi/QxMPlZE6Kes/maxresdefault.jpg",
+      "price": 80000
+    },
+    {
+      "id": 6,
+      "name": "South-Indian ",
+      "description": "This kanchivarma sari made for bride",
+      "imageUrl": "https://www.theweddingbrigade.com/blog/wp-content/uploads/2019/07/light-bucket-cover.jpg",
+      "price": 8000
+    },
+    {
+      "id": 7,
+      "name": "Priynka Chopra lenga",
+      "description": "As this is for the red lovers containg choli and blause stiched",
+      "imageUrl": "https://i.pinimg.com/originals/9d/da/44/9dda4450ec95af9607bd78311c83aa65.jpg",
+      "price": 2500
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 3,
+        "name": "punjabi",
+        "description": "jkfdjgjge",
+        "imageUrl": "https://buddymantra.com/wp-content/uploads/2018/01/Picture10-1.jpg",
+        "price": 2500
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Velvet",
+        "description": "rurpowejof",
+        "imageUrl": "https://media.weddingsonly.in/blogger/07e70e1ef704fbee94208ed621a62b34/c130364522324573998c_Fi.jpg",
+        "price": 2500
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "lenga",
+        "description": "wljefewf",
+        "imageUrl": "https://img.perniaspopupshop.com/HOMEPAGE_IMAGES/sabyasachi/AnushkaSharma002.jpg",
+        "price": 2500
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "lenga",
+        "description": "wljefewf",
+        "imageUrl": "https://img.perniaspopupshop.com/HOMEPAGE_IMAGES/sabyasachi/AnushkaSharma002.jpg",
+        "price": 2500
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "lenga",
+        "description": "dskjjkjd",
+        "imageUrl": "https://www.theweddingbrigade.com/blog/wp-content/uploads/2019/07/light-bucket-cover.jpg",
+        "price": 2500
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "punjabi",
+        "description": "jkfdjgjge",
+        "imageUrl": "https://buddymantra.com/wp-content/uploads/2018/01/Picture10-1.jpg",
+        "price": 2500
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Velvet",
+        "description": "rurpowejof",
+        "imageUrl": "https://media.weddingsonly.in/blogger/07e70e1ef704fbee94208ed621a62b34/c130364522324573998c_Fi.jpg",
+        "price": 2500
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "punjabi",
+        "description": "jkfdjgjge",
+        "imageUrl": "https://buddymantra.com/wp-content/uploads/2018/01/Picture10-1.jpg",
+        "price": 2500
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Velvet",
+        "description": "rurpowejof",
+        "imageUrl": "https://media.weddingsonly.in/blogger/07e70e1ef704fbee94208ed621a62b34/c130364522324573998c_Fi.jpg",
+        "price": 2500
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "lenga",
+        "description": "wljefewf",
+        "imageUrl": "https://img.perniaspopupshop.com/HOMEPAGE_IMAGES/sabyasachi/AnushkaSharma002.jpg",
+        "price": 2500
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "lenga",
+        "description": "ejfjjfkd",
+        "imageUrl": "https://i.ytimg.com/vi/QxMPlZE6Kes/maxresdefault.jpg",
+        "price": 2500
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "lenga",
+        "description": "wljefewf",
+        "imageUrl": "https://img.perniaspopupshop.com/HOMEPAGE_IMAGES/sabyasachi/AnushkaSharma002.jpg",
+        "price": 2500
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "lenga",
+        "description": "rutrthrghg",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81O8cmRfNYL._UL1500_.jpg",
+        "price": 2500
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Velvet",
+        "description": "Full Velvet Specially for Punjabi Bride",
+        "imageUrl": "https://i.pinimg.com/originals/fc/47/46/fc4746665a1205100abe0e6f19569646.jpg",
+        "price": 23456
+      },
+      "id": 14
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Bridal Wear",
+        "description": "In light green shades we made it and having leass white color",
+        "imageUrl": "https://i0.wp.com/frugal2fab.com/wp-content/uploads/2019/02/19.jpg?resize=683%2C1024",
+        "price": 9000
+      },
+      "id": 15
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Anushuka  Sharma's-lenga",
+        "description": "Designed by Sbysachi Mukharjee.It contains choli and rest set in pink color",
+        "imageUrl": "https://img.perniaspopupshop.com/HOMEPAGE_IMAGES/sabyasachi/AnushkaSharma002.jpg",
+        "price": 25000
+      },
+      "id": 16
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Bridal Wear",
+        "description": "In light green shades we made it and having leass white color",
+        "imageUrl": "https://i0.wp.com/frugal2fab.com/wp-content/uploads/2019/02/19.jpg?resize=683%2C1024",
+        "price": 9000
+      },
+      "id": 17
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Velvet",
+        "description": "Full Velvet Specially for Punjabi Bride",
+        "imageUrl": "https://i.pinimg.com/originals/fc/47/46/fc4746665a1205100abe0e6f19569646.jpg",
+        "price": 23456
+      },
+      "id": 18
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Anushuka  Sharma's-lenga",
+        "description": "Designed by Sbysachi Mukharjee.It contains choli and rest set in pink color",
+        "imageUrl": "https://img.perniaspopupshop.com/HOMEPAGE_IMAGES/sabyasachi/AnushkaSharma002.jpg",
+        "price": 25000
+      },
+      "id": 19
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Neck Piece",
+        "description": "This we made for bride as jewellary.It contains 2 jhumka and 1 neak set",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81O8cmRfNYL._UL1500_.jpg",
+        "price": 30000
+      },
+      "id": 20
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
